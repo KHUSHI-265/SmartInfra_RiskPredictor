@@ -82,7 +82,7 @@ Performance:
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/SmartInfra_RiskPredictor.git  
+[   git clone https://github.com/YOUR_USERNAME/SmartInfra_RiskPredictor.git  ](https://github.com/KHUSHI-265/SmartInfra_RiskPredictor.git)
 
 2. Install dependencies:
    pip install -r requirements.txt  
